@@ -1,4 +1,6 @@
-# 1. FIFA Dataset Cleaning and Visualizations using Pandas and Tableau
+# 1. FIFA Dataset 
+
+Cleaning and Visualizations using Pandas, Matplotlib and Tableau
 
 Tableau Data Visualization:
 
