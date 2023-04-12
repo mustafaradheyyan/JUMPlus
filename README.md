@@ -1,6 +1,6 @@
 # 1. FIFA Dataset 
 
-### Cleaning and Visualizations using Pandas, Matplotlib and Tableau
+### Data Cleaning and Visualizations using Pandas, Matplotlib and Tableau
 
 Tableau Data Visualization:
 
@@ -8,7 +8,7 @@ https://public.tableau.com/views/SofifaDataVisualization/FIFAPlayers?:language=e
 
 # 2. Marvel Heroes 
 
-### Cleaning and Visualizations using Pandas, Matplotlib and Tableau
+### Data Cleaning and Visualizations using Pandas, Matplotlib and Tableau
 
 Tableau Data Visualization:
 
