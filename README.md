@@ -18,4 +18,4 @@ https://public.tableau.com/views/Marvel-DC-AnimeVisualization/Marvel-DC-AnimeAli
 
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn. Machine learning via Scikit-learn
 
-Utilizing the Seaborn iris dataset
+Utilizing Seaborn's iris dataset
