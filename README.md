@@ -19,3 +19,9 @@ https://public.tableau.com/views/Marvel-DC-AnimeVisualization/Marvel-DC-AnimeAli
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn. Machine learning via Scikit-learn
 
 Utilizing Seaborn's iris dataset
+
+# 4. Video Game Sales
+
+### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn.
+
+Video Game Sales from 1980-December 22, 2016
