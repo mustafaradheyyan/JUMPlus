@@ -25,3 +25,11 @@ Utilizing Seaborn's iris dataset
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn.
 
 Video Game Sales from 1980-December 22, 2016
+
+# 5. Ecommerce Purchases
+
+### Data Cleaning and Visualizations using Pandas and Tableau
+
+Tableau Data Visualization:
+
+https://public.tableau.com/views/EcommercePurchases/EcommercePurchases?:language=en-US&:display_count=n&:origin=viz_share_link
