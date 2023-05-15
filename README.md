@@ -33,3 +33,7 @@ Video Game Sales from 1980-December 22, 2016
 Tableau Data Visualization:
 
 https://public.tableau.com/views/EcommercePurchases/EcommercePurchases?:language=en-US&:display_count=n&:origin=viz_share_link
+
+# 6. Brazilian Forest Fires
+
+### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn.
