@@ -2,7 +2,7 @@
 
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Tableau
 
-Tableau Data Visualization:
+Tableau data visualization:
 
 https://public.tableau.com/views/SofifaDataVisualization/FIFAPlayers?:language=en-US&:display_count=n&:origin=viz_share_link
 
@@ -10,7 +10,7 @@ https://public.tableau.com/views/SofifaDataVisualization/FIFAPlayers?:language=e
 
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Tableau
 
-Tableau Data Visualization:
+Tableau data visualization:
 
 https://public.tableau.com/views/Marvel-DC-AnimeVisualization/Marvel-DC-AnimeAlignmentvsAbility?:language=en-US&:display_count=n&:origin=viz_share_link
 
@@ -30,7 +30,7 @@ Video game sales from 1980-December 22, 2016
 
 ### Data Cleaning and Visualizations using Pandas and Tableau
 
-Tableau Data Visualization:
+Tableau data visualization:
 
 https://public.tableau.com/views/EcommercePurchases/EcommercePurchases?:language=en-US&:display_count=n&:origin=viz_share_link
 
