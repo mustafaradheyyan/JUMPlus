@@ -37,3 +37,5 @@ https://public.tableau.com/views/EcommercePurchases/EcommercePurchases?:language
 # 6. Brazilian Forest Fires
 
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn.
+
+Brazilian forest fires from 1998-2017
