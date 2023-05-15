@@ -24,7 +24,7 @@ Utilizing Seaborn's iris dataset
 
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn.
 
-Video Game Sales from 1980-December 22, 2016
+Video game sales from 1980-December 22, 2016
 
 # 5. Ecommerce Purchases
 
