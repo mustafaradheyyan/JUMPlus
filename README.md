@@ -39,3 +39,9 @@ https://public.tableau.com/views/EcommercePurchases/EcommercePurchases?:language
 ### Data Cleaning and Visualizations using Pandas, Matplotlib and Seaborn.
 
 Brazilian forest fires from 1998-2017
+
+# 7. Revisiting Pep I
+
+Fullstack implementation of IKEA product dataset purchasing and viewing
+
+https://github.com/mustafaradheyyan/Revisting-Pep-I-Ikea
