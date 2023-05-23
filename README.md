@@ -42,6 +42,6 @@ Brazilian forest fires from 1998-2017
 
 # 7. Revisiting Pep I
 
-Fullstack implementation of IKEA product dataset purchasing and viewing
+Full-stack implementation of IKEA product dataset viewing, purchasing and reviewing.
 
 https://github.com/mustafaradheyyan/Revisting-Pep-I-Ikea
