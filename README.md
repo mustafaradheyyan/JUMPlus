@@ -45,3 +45,9 @@ Brazilian forest fires from 1998-2017
 Full-stack implementation of IKEA product dataset viewing, purchasing and reviewing.
 
 https://github.com/mustafaradheyyan/Revisting-Pep-I-Ikea
+
+# 8. Revisiting Pep II
+
+Conglomeration, analysis and visualization of disparate data sets (including NBA, Cricket and Wildfires).
+
+https://github.com/mustafaradheyyan/Revisiting-Pep-II/
