@@ -48,6 +48,6 @@ https://github.com/mustafaradheyyan/Revisting-Pep-I-Ikea
 
 # 8. Revisiting Pep II
 
-Conglomeration, analysis and visualization of disparate data sets (including NBA, Cricket and Wildfires).
+Conglomeration, analysis and visualization of disparate data sets (including NBA, cricket and wildfires).
 
 https://github.com/mustafaradheyyan/Revisiting-Pep-II/
