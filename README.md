@@ -51,3 +51,9 @@ https://github.com/mustafaradheyyan/Revisting-Pep-I-Ikea
 Conglomeration, analysis and visualization of disparate data sets (including NBA, cricket and wildfires).
 
 https://github.com/mustafaradheyyan/Revisiting-Pep-II/
+
+# 9. Revisiting Pep III
+
+Video Game Sale Dataset Cleaning and Visualizations using Pandas and Tableau.
+
+https://github.com/mustafaradheyyan/PEP3-Revisit-Data_Analytics_Project
